@@ -27,9 +27,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="GEMExport.h">
-      <Filter>Дополнительные элементы</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -37,9 +34,6 @@
     </ClCompile>
     <ClCompile Include="ParallelPhilosophists.cpp">
       <Filter>Файлы исходного кода</Filter>
-    </ClCompile>
-    <ClCompile Include="GemExport.cpp">
-      <Filter>Дополнительные элементы</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
